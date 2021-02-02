@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman </h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<h1>https://bodybuildermuscle1.blogspot.com/</h1>
+<a href="https://bodybuildermuscle1.blogspot.com/">bodybuilder</a>
+
 - 🔭 I’m currently working on Projects
 
 - 🌱 I’m currently learning **Ember**
